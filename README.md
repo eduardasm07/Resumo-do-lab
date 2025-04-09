@@ -2,7 +2,10 @@
 Este repositório apresenta o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
 Boa tarde, como vai?
-Me chamo Maria Eduarda da Silva Miranda, sou inicante no mundo das "Cloud" e das "IA's" Diante das demandas que o mundo vem necessitando, percebi a importância de me aprofundar no conhecimento das tecnologias da informação, em especial da computação em nuvem para iniciar, já que sou leiga no assunto. Ao longo do curso que iniciei, venho adquirindo uma base sobre os fundamentos da nuvem, suas arquiteturas, seus modelos e seus benefícios.
+Me chamo Maria Eduarda da Silva Miranda, sou inicante no mundo das "Cloud" e das "IA's" Diante das demandas que o mundo vem necessitando, percebi a importância de me aprofundar no conhecimento das tecnologias da informação, em especial da computação em nuvem para iniciar, já que sou leiga no assunto.
+
+Nunca me imaginei tendo gosto por aprender mais sobre essa área, mas meu pensamento mudou! Ao longo do curso que iniciei, venho adquirindo uma base sobre os fundamentos da nuvem, suas arquiteturas, seus modelos e seus benefícios.
+
 Aprendi que a computação em nuvem oferece vantagens significativas como escalabilidade, elasticidade, confiabilidade, previsibilidade de custos, segurança, governança e gerenciabilidade. Esses atributos tornam a nuvem uma solução poderosa, eficiente e altamente adaptável às necessidades de empresas de todos os portes.
 
 Uma das partes fundamentais do meu aprendizado até o momento foi entender a diferença entre ambientes On-Premise (infraestrutura local, gerenciada diretamente pela empresa) e o ambiente em Cloud, que oferece infraestrutura como serviço, com acesso remoto, menor necessidade de manutenção física e escalabilidade sob demanda.
